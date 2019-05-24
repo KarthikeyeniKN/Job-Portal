@@ -1,6 +1,5 @@
-                                                      JOB PORTAL
-
-           This project is about the recruitment process which is done online. The recruitment process here is handled by the system. 
+                                                      JOB PORTAL   
+ This project is about the recruitment process which is done online. The recruitment process here is handled by the system.
  This project will allow the person to apply for a job in the company for the interested vacancy which would be available at the company.
  The person will be having the account after registration and will be then called the applied user. If he/she would be qualified,
  he would be interacting with the system for the updates. The project is created for fulfilling the requests of the company managers 
